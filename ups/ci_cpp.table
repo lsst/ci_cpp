@@ -1,0 +1,2 @@
+setupRequired(ci_cpp_gen2)
+setupRequired(ci_cpp_gen3)
